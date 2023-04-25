@@ -8,7 +8,7 @@ const mariaOlvera = (req, res) => {
   res.send('Maria Olvera');
 };
 
-module.export ={
+module.exports = {
     marianaGarcia,
-    mariaOlvera
+    mariaOlvera,
 };
